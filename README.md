@@ -8,4 +8,4 @@ Atividade do Projeto Nanodegree Introdução a Programação
 
 ## Credits
 [![Adeilton Sousa](https://avatars3.githubusercontent.com/u/15982101?s=70)](https://github.com/adeiltonsousa) <br>
-[Adeilton Sousa](https://github.com/adeiltonsousa) (<adeiltonsousaxavier@gmail.com>) - Designer
+[Adeilton Sousa](https://github.com/adeiltonsousa) | adeiltonsousaxavier@gmail.com - Designer
